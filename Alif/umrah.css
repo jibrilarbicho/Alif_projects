@@ -1,0 +1,144 @@
+*{
+    margin:0 ;
+    padding:0;
+    font-family: Arial;
+}
+.bac{
+    height: 50vh;
+background-color:white;
+  background-image: url("kabawalp.jpg") ; 
+  background-repeat: no-repeat;
+  background-position: center;
+background-size: cover;
+width: 100%;
+margin-bottom: 12px;
+}
+.a .taq{
+    margin-left: 19px;
+padding-top: 15px;
+position: relative;
+
+}
+
+.mn{
+    
+    padding-top: 4px;
+}
+.bac,.c{
+    color:white;
+}
+.v{
+    border: none;
+    color: white;
+    background-color:inherit;
+    padding-right: 30px;
+}
+.m a{
+
+    border: none;
+    
+}
+.taq h5{
+    float: left;
+width: 33%;
+
+}
+.taq h5 span{
+    font-size: 9px;
+    
+}
+.taq .hj{
+    color:yellow;
+}
+.mn a{
+    text-decoration: none;
+    margin-left: 12px;
+    margin-right: 34px;
+color: white;
+}
+.mn a:hover{
+    color: yellow;
+}
+.v:hover{
+color: yellow;
+}
+.mn a:first-child{
+    color: yellow;
+}
+
+.mn .bt{
+    background-color: inherit;
+    border: 2px solid gold;
+    border-radius: 12px;
+    color: white;
+    width: 95px;
+    padding: 5px;
+}
+.m{
+    border: none;
+    background: inherit;
+}
+.t{
+    margin-top: 123px;
+}
+.t {
+    text-align: center;
+    font-family: Arial;
+}
+.t h2{
+    font-size: 36px;
+}
+.t .butn{
+    
+    background-color:darksalmon; 
+    margin-top: 19px;
+    height: 28px;
+    border: none;
+    border-radius: 12px;
+    padding: 6px;
+
+}
+.hum{
+text-align: center;
+margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.umr{
+    
+    display: flex;
+    justify-content: center;
+   overflow:auto;
+}
+
+    
+
+img {
+    width: 220px;
+    height: 120px;
+
+    
+}
+.c{
+    color: red;
+}
+.ji{
+    font-weight: bold;
+    font-size: 19px; 
+   
+
+
+}
+.umr a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    margin-right: 34px;
+}
+.mon{
+    font-weight: bold;
+    color: blue;
+}
+.p{
+    font-size: 12px;
+}
